@@ -1,0 +1,22 @@
+[
+  {
+    "question_text": "What is the capital of France?",
+    "alternatives": [
+      "London",
+      "Berlin",
+      "Paris",
+      "Madrid"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question_text": "Which planet is known as the Red Planet?",
+    "alternatives": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "correct_answer": 1
+  }
+]
