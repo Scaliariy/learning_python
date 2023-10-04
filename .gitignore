@@ -3,3 +3,7 @@ venv
 bonus/journal
 __pycache__
 /files/
+/build/
+/dist/
+/gui.spec
+/todos.txt
